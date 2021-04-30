@@ -11,6 +11,6 @@ In this project, I used OpenCV and Python to detect seatbelts within an image or
 
 After following these steps, you can play around with it in your own manner.
 
-## To only view the outputs and results after compiling; 
+## To only view the outputs and results of this project; 
 1. Click on project1.ipynb above
 2. Scroll down to the very bottom to see the output images
